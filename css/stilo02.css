@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+	background-image: linear-gradient(to bottom right, rgb(173, 234, 236), rgb(40, 91, 100));
+}
+
+#contenido{
+	max-width: 1100px;
+	height: auto;
+	background-image: linear-gradient(to bottom right, rgb(148, 192, 194), rgb(40, 91, 100));
+	margin: auto;
+	margin-top: 0px;
+}
+#contenido2{
+	max-width: 1100px;
+	/*height: 1430px;*/
+	background-image: linear-gradient(to bottom right, rgb(148, 192, 194), rgb(40, 91, 100));
+	margin: auto;
+	
+
+}
+
+
+#nombre{
+    color: #796e64;
+    position: absolute;
+   /* text-decoration: none;*/
+    text-transform: uppercase;
+    font-family: "Latin Modern Roman";
+    font-size: 50px;
+    top: 20%;
+    left: 30%;
+    text-align: center;
+
+}
+
+
+
+
+#logo{
+    width: 200px;
+    height: 200px;
+   
+
+}
+
+
+#navegar1{
+    margin-block-end: 10px;
+    margin: auto;
+   
+}
+
+#navegar2{
+    margin-block-end: 10px;
+    
+   
+}
+/*estilo del carrucel*/
+.carousel-inner{
+    border-radius: 30px;
+    height: 450px;
+    margin-block-end: 20px;
+    
+}
+#carouselExampleFade{
+    max-width: 1100px;
+    
+    margin: auto;
+    
+}
+#cartinformation{
+    margin-block-end: 35px;
+}
+
+.card{
+
+
+}
+
